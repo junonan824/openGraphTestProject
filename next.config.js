@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ['yourdomain.com'],
+    domains: ['open-graph-test-project.vercel.app'],
   },
 }
 

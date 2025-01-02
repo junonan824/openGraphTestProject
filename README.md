@@ -1,6 +1,6 @@
 # SEO 최적화 블로그 프로젝트
 
-[![Deployed on Vercel](https://vercel.com/button)](https://your-project-url.vercel.app)
+[![Deployed on Vercel](https://vercel.com/button)](https://open-graph-test-project.vercel.app)
 
 Next.js를 활용한 SEO 최적화 블로그 프로젝트입니다. 이 프로젝트는 검색 엔진 최적화(SEO)와 소셜 미디어 공유를 위한 최적의 설정을 포함하고 있습니다.
 

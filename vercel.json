@@ -7,7 +7,7 @@
   "regions": ["icn1"],
   "images": {
     "sizes": [640, 750, 828, 1080, 1200],
-    "domains": ["yourdomain.com"],
+    "domains": ["open-graph-test-project.vercel.app"],
     "minimumCacheTTL": 60
   }
 } 

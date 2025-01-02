@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'SEO 최적화 블로그',
     description: '검색 엔진 최적화와 Open Graph 태그에 대해 알아보는 블로그',
-    url: 'https://yourdomain.com',
+    url: 'https://open-graph-test-project.vercel.app',
     siteName: 'SEO 블로그',
     images: [
       {
-        url: 'https://yourdomain.com/images/og/default.jpg',
+        url: 'https://open-graph-test-project.vercel.app/images/og/default.jpg',
         width: 1200,
         height: 630,
       },
