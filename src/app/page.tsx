@@ -12,9 +12,10 @@ export const metadata: Metadata = {
     siteName: 'SEO 블로그',
     images: [
       {
-        url: 'https://open-graph-test-project.vercel.app/images/og/default.jpg',
+        url: 'https://open-graph-test-project.vercel.app/opengraph001.png',
         width: 1200,
         height: 630,
+        alt: 'SEO 최적화 블로그 메인 이미지',
       },
     ],
     locale: 'ko_KR',
@@ -27,7 +28,7 @@ export default function Home() {
     <div className={styles.page}>
       <header className={styles.header}>
         <Image
-          src="/images/logo.png"
+          src="/opengraph001.png"
           alt="블로그 로고"
           width={150}
           height={50}
